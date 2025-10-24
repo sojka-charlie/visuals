@@ -88,6 +88,29 @@
             font-style: italic;
             margin-bottom: 1em;
         }
+
+        .screenshot {
+            max-width: 100%;
+            max-height: 600px;
+            width: auto;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin: 1.5em 0;
+            display: block;
+            transition: transform 0.2s ease;
+            object-fit: contain;
+        }
+
+        .screenshot:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .screenshot-link {
+            display: inline-block;
+            margin: 1em 0;
+        }
     </style>
 </head>
 <body>
@@ -113,11 +136,15 @@
         <p>The Storage Hardware UI eventually was used heavily for NetApp HCI Cluster UI</p>
         <ul>
             <li><a href="https://youtu.be/3sWaD1arVvc?si=UuVO9am5raIofVns&t=115">NetApp HCI Cluster UI Demo</a></li>
+            <li><a href="hardware-ui/">Hardware UI Source Code</a></li>
         </ul>
 
         <h2><a href="https://idtdna.com">idtdna.com</a></h2>
         <p>Online Ordering for synthetic biology and custom calculators.</p>
         <p class="date">Spring 2014</p>
+        <a href="images/oligo-resuspension-dilution-calculators.pdf" class="screenshot-link">
+            <img src="images/oligo-resuspension-dilution-calculators.png" alt="Oligo Resuspension and Dilution Calculators" class="screenshot">
+        </a>
         <ul>
             <li><a href="https://www.idtdna.com/page/support-and-education/decoded-plus/easy-resuspension-and-dilution-of-oligonucleotides/">Oligo resuspension and dilution calculators blog</a></li>
             <li><a href="https://www.idtdna.com/site/order/gblockentry">gBlocks™ Gene Fragments Entry</a></li>
@@ -128,6 +155,9 @@
         <p class="date">Spring 2009</p>
         <p><strong>3D Visualization of Ngandong</strong> - Russell L. Ciochon, Anthropology Department, University of Iowa 2009<br>
         <a href="http://youtube.com/watch?v=e-FGYdaMj28">youtube.com/watch?v=e-FGYdaMj28</a></p>
+        <a href="http://youtube.com/watch?v=e-FGYdaMj28" class="screenshot-link">
+            <img src="images/ngandon-video_small.png" alt="3D Visualization of Ngandong Archaeological Site" class="screenshot">
+        </a>
         <p>Created a 3D visualization of an archaeological bone bed site from TDS survey data for the 2009 AAPA convention.
         Converted to a 3D map in AutoCAD, built a surface model in 3DS Max,
         and combined it with a 1920's contour map of the excavation.</p>
