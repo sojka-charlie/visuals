@@ -1,15 +1,39 @@
 # visuals
 Portfolio of interactions and ui tools
 
-## [ml.apple.com]( https://machinelearning.apple.com[)
+## [ml.apple.com](https://machinelearning.apple.com)
 
 React Figures using LaTeX / rehype, Framer Motion for AIML Research Highlights
 
 Fall 2024
 
-* [Enhancing Paragraph Generation with a Latent Language Diffusion Model](https://machinelearning.apple.com/research/latent-language-diffusion-model)
-* [Personalizing Health and Fitness with Hybrid Modeling](https://machinelearning.apple.com/research/personalized-heartrate)
-* [Humanizing Word Error Rate for ASR Transcript Readability and Accessibility](https://machinelearning.apple.com/research/humanizing-wer)
+### Interactive Research Figures Portfolio
+
+This portfolio showcases interactive data visualizations from Apple Machine Learning research papers. The figures use React, LaTeX/rehype for mathematical notation, and Framer Motion for animations.
+
+#### Featured Papers & Figures
+
+**[Enhancing Paragraph Generation with a Latent Language Diffusion Model](https://machinelearning.apple.com/research/latent-language-diffusion-model)**
+- [Figure 1](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure1) - Latent diffusion process visualization
+- [Figure 2](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure2) - Model architecture comparison
+- [Figure 3](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure3) - Generation quality metrics
+
+**[Personalizing Health and Fitness with Hybrid Modeling](https://machinelearning.apple.com/research/personalized-heartrate)**
+- [Figure 1](https://machinelearning.apple.com/research/personalized-heartrate#figure1) - Heart rate prediction model
+- [Figure 2](https://machinelearning.apple.com/research/personalized-heartrate#figure2) - Personalization comparison
+
+**[Humanizing Word Error Rate for ASR Transcript Readability and Accessibility](https://machinelearning.apple.com/research/humanizing-wer)**
+- [Figure 3](https://machinelearning.apple.com/research/humanizing-wer#figure3) - Error rate humanization metrics
+
+#### Capturing Figure Screenshots & Videos
+
+See [CAPTURE_README.md](./CAPTURE_README.md) for instructions on capturing screenshots and videos of these interactive figures for portfolio presentation.
+
+```bash
+# Quick start
+npm run setup    # Install dependencies and browsers
+npm run capture  # Capture all figures
+```
 
 ## SolidFire (Now part of NetApp)
 
