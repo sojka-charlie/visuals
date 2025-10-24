@@ -4,7 +4,7 @@
   "description": "Portfolio of interactions and UI tools - Apple ML Research Figures Capture",
   "scripts": {
     "capture": "node capture-figures.js",
-    "install-browsers": "playwright install chromium",
+    "install-browsers": "npx playwright install chromium",
     "setup": "npm install && npm run install-browsers"
   },
   "devDependencies": {
