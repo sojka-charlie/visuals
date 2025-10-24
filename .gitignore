@@ -24,3 +24,9 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
