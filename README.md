@@ -1,9 +1,10 @@
 # visuals
+
 Portfolio of interactions and ui tools
 
 ## [ml.apple.com]( https://machinelearning.apple.com[)
 
-React Figures using LaTeX / rehype, Framer Motion for AIML Research Highlights
+React Figures using LaTeX / rehype, Framer Motion for AIML Research Highlights.
 
 Fall 2024
 
@@ -14,15 +15,15 @@ Fall 2024
 ## SolidFire (Now part of NetApp)
 
  ElementOS 9 UI rewrite
- The UI offered an api log that could be used to generate devops scripts for clusters after performing the action in the ui.
+ The UI offered an api log that could be used to generate DevOps scripts for clusters after acting as the ui.
 
 * https://youtu.be/rjufsq9_c6k?si=yZiemjCL4n76DAd3&t=78
 
-The Storage Hardware UI eventually was used heavily for NetApp HCI Cluster UI
+The Storage Hardware UI was eventually used heavily for the NetApp HCI Cluster UI.
 
 * [https://youtu.be/3sWaD1arVvc](https://youtu.be/3sWaD1arVvc?si=UuVO9am5raIofVns&t=115)
 
-## [idtdna.com](https://idtdna.com)
+## [https://www.idtdna.com](https://www.idtdna.com)
 
 Online Ordering for synthetic biology and custom calculators.
 
@@ -40,4 +41,4 @@ Spring 2009
 
 Created a 3D visualization of an archaeological bone bed site from TDS survey data for the 2009 AAPA convention. 
 Converted to a 3D map in AutoCAD, built a surface model in 3DS Max, 
-and combined it with a 1920's contour map of the excavation. 
+and combined it with a 1920s contour map of the excavation. 
