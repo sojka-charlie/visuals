@@ -1,8 +1,7 @@
 # visuals
-
+ [https://sojka-charlie.github.io/visuals/](https://sojka-charlie.github.io/visuals/)
+ 
 Portfolio repository for interactions and UI tools.
-
-**View the portfolio:** This repository is published to GitHub Pages. The full portfolio is available at https://sojka-charlie.github.io/visuals/
 
 ## Repository Contents
 
