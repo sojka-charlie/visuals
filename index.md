@@ -2,50 +2,26 @@
 
 Portfolio of interactions and ui tools
 
-## [ml.apple.com](https://machinelearning.apple.com)
+## [Apple ML Research - Interactive Figures](apple-ml-research)
 
-React Figures using LaTeX / rehype, Framer Motion for AIML Research Highlights.
+**Fall 2024**
 
-Fall 2024
+Interactive data visualizations from Apple Machine Learning research papers built with React, LaTeX/rehype, and Framer Motion.
 
-### Interactive Research Figures Portfolio
+Featured research:
+- Latent Language Diffusion Model
+- Personalized Health and Fitness with Hybrid Modeling
+- Humanizing Word Error Rate for ASR
 
-This portfolio showcases interactive data visualizations from Apple Machine Learning research papers. The figures use React, LaTeX/rehype for mathematical notation, and Framer Motion for animations.
+[View Full Portfolio →](apple-ml-research)
 
-#### Featured Papers & Figures
+## [SolidFire / NetApp Hardware UI](hardware-ui)
 
-**[Enhancing Paragraph Generation with a Latent Language Diffusion Model](https://machinelearning.apple.com/research/latent-language-diffusion-model)**
-- [Figure 1](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure1) - Latent diffusion process visualization
-- [Figure 2](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure2) - Model architecture comparison
-- [Figure 3](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure3) - Generation quality metrics
+ElementOS 9 UI rewrite and NetApp HCI Cluster UI. The UI offered an API log that could be used to generate DevOps scripts for clusters.
 
-**[Personalizing Health and Fitness with Hybrid Modeling](https://machinelearning.apple.com/research/personalized-heartrate)**
-- [Figure 1](https://machinelearning.apple.com/research/personalized-heartrate#figure1) - Heart rate prediction model
-- [Figure 2](https://machinelearning.apple.com/research/personalized-heartrate#figure2) - Personalization comparison
+Features video demonstrations of the Element UI and the Storage Hardware UI that was used for NetApp HCI.
 
-**[Humanizing Word Error Rate for ASR Transcript Readability and Accessibility](https://machinelearning.apple.com/research/humanizing-wer)**
-- [Figure 3](https://machinelearning.apple.com/research/humanizing-wer#figure3) - Error rate humanization metrics
-
-#### Capturing Figure Screenshots & Videos
-
-See [CAPTURE_README.md](./CAPTURE_README.md) for instructions on capturing screenshots and videos of these interactive figures for portfolio presentation.
-
-```bash
-# Quick start
-npm run setup    # Install dependencies and browsers
-npm run capture  # Capture all figures
-```
-
-## SolidFire (Now part of NetApp)
-
- ElementOS 9 UI rewrite
- The UI offered an api log that could be used to generate DevOps scripts for clusters after acting as the ui.
-
-* https://youtu.be/rjufsq9_c6k?si=yZiemjCL4n76DAd3&t=78
-
-The Storage Hardware UI was eventually used heavily for the NetApp HCI Cluster UI.
-
-* [https://youtu.be/3sWaD1arVvc](https://youtu.be/3sWaD1arVvc?si=UuVO9am5raIofVns&t=115)
+[View UI Demos →](hardware-ui)
 
 ## [https://www.idtdna.com](https://www.idtdna.com)
 
