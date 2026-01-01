@@ -18,19 +18,16 @@ Interactive data visualizations from Apple Machine Learning research papers buil
 Visualization of the latent diffusion process in language generation
 
 - [View Live Figure](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure1)
-- [Screenshot](screenshots/latent-language-diffusion-figure1-initial.png)
 
 ### Figure 2: Model architecture comparison
 Comparison of model architectures and their performance
 
 - [View Live Figure](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure2)
-- [Screenshot](screenshots/latent-language-diffusion-figure2-initial.png)
 
 ### Figure 3: Generation quality metrics
 Interactive metrics showing generation quality across different parameters
 
 - [View Live Figure](https://machinelearning.apple.com/research/latent-language-diffusion-model#figure3)
-- [Screenshot](screenshots/latent-language-diffusion-figure3-initial.png)
 
 ---
 
@@ -42,13 +39,11 @@ Interactive metrics showing generation quality across different parameters
 Interactive visualization of heart rate prediction using hybrid modeling
 
 - [View Live Figure](https://machinelearning.apple.com/research/personalized-heartrate#figure1)
-- [Screenshot](screenshots/personalized-heartrate-figure1-initial.png)
 
 ### Figure 2: Personalization comparison
 Comparison of personalized vs. non-personalized model performance
 
 - [View Live Figure](https://machinelearning.apple.com/research/personalized-heartrate#figure2)
-- [Screenshot](screenshots/personalized-heartrate-figure2-initial.png)
 
 ---
 
@@ -60,7 +55,6 @@ Comparison of personalized vs. non-personalized model performance
 Interactive visualization of humanized word error rate metrics
 
 - [View Live Figure](https://machinelearning.apple.com/research/humanizing-wer#figure3)
-- [Screenshot](screenshots/humanizing-wer-figure3-initial.png)
 
 ---
 
